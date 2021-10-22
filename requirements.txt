@@ -1,4 +1,0 @@
-jupyter_contrib_nbextensions
-jupyter-offlinenotebook
-requests
-progressbar
